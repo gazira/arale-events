@@ -1,0 +1,7 @@
+{
+    "name": "aralejs-event",
+    "version": "0.0.1",
+    "main": "events.js",
+    "dependencies": {
+    }
+}
